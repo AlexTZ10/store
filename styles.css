@@ -106,7 +106,7 @@ footer {
   section#hero{
     border: 1px solid purple;
     height: 340px;
-    background:url('hero_bg.png');
+    background:url('assets/hero_bg.png');
     background-size: cover; 
     background-position: top center;
   }
